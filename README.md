@@ -1,1 +1,1 @@
-# goit-js-hw-09-parcel
+# goit-js-hw-09-gallery
